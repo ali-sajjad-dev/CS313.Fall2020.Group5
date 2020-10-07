@@ -1,8 +1,8 @@
 # CS313.Fall2020.Group5
 
 
-Raharisoa,Manana	          - problems 
-Rampersaud,Joshua	          - problems
-Rihi,Mone Ruba J	          - problems
-Roman,Genesis M	            - problems
-Sajjad,Muhammad Abbas Ali   - problems 5,6 
+Raharisoa,Manana
+Rampersaud,Joshua
+Rihi,Mone Ruba J
+Roman,Genesis M
+Sajjad,Muhammad Abbas Ali
